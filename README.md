@@ -1,16 +1,60 @@
-## Hi there 👋
+# Aleph-Beth
 
-<!--
-**aleph-beth/aleph-beth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Security-first architectures for Large Language Models.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+Aleph-Beth is an independent research and engineering initiative led by Gregory Lagasse, focused on secure, deterministic, and auditable AI systems.
+
+The core objective is to design governance layers that strengthen reliability, control, and resilience of Large Language Models in critical and adversarial environments.
+
+---
+
+## Research Focus
+
+- Deterministic governance architectures for LLMs  
+- Monotonic capability reduction  
+- Knowledge vs procedure separation  
+- Prompt injection & data exfiltration resistance  
+- Secure-by-design RAG pipelines  
+- Auditable policy enforcement systems  
+
+---
+
+## Selected Work
+
+### Magen — Security-Oriented RAG
+
+Proof-of-concept architecture for hardened Retrieval-Augmented Generation systems, designed for SOC and regulated infrastructures.
+
+### Lock-Monotone Architecture
+
+A deterministic control layer introducing policy-bound execution, invariants, and auditable decision flow for Large Language Models.
+
+---
+
+## Philosophy
+
+Large Language Models should not rely solely on probabilistic alignment.
+
+They require:
+- explicit threat models  
+- deterministic control mechanisms  
+- verifiable policy layers  
+- reproducible evaluation frameworks  
+
+Security must be architectural, not reactive.
+
+---
+
+## Contact
+
+Gregory Lagasse  
+📩 gregory.lagasse@alephbeth.dev  
+🌍 Europe (CET) — Remote-first  
+
+---
+
+© 2026 Aleph-Beth
